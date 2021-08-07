@@ -1,0 +1,4 @@
+appx	500
+appy	500
+lastgame	adebayo	21-07-23 00:57:19
+lastsort	by status by name
